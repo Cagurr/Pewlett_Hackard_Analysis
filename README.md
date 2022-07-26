@@ -37,16 +37,16 @@ Based on our analysis, Bobby and I determined that 72,458 employees are eligible
 
 Deliverable #1:
 
-Obtain a list of all retirement-eligible employees
+Create a Retirement Titles Table for Employees Born Between 01-01-1952 and 12-31-1955
 ![del1.png](Resources/del1.png)
 
-Use DISTINCT ON with ORDER BY to remove duplicate rows
+Create a Unique Title Table Using DISTINCT ON and ORDER BY
 ![del1.0.png](Resources/del1.0.png)
 
-Retrieve the number of employees by most recent job title
+Create a Retiring Titles Table
 ![del1.1.png](Resources/del1.1.png)
 
 Deliverable #2:
 
-Obtain a list of employees eligible for the mentor program
+Create a Mentorship Eligilibity Table for Current Employees Born Between 01-01-1965 and 12-31-1965
 ![del2.png](Resources/del2.png)
