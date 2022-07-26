@@ -27,7 +27,7 @@ To accomplish this task, we will help Bobby build a SQL database from six comma 
 
 * Only 1,549 Employees are Eligible for the Mentor Program
     
-* Pewlett Hackard Needs More Senior Engineers to Mentor Due to Sever Labor Shortage and a Small Mentor Pool
+* Pewlett Hackard Needs More Senior Engineers to Mentor Due to Severe Labor Shortage and a Small Mentor Pool
       
 ## Summary of Analysis
 
